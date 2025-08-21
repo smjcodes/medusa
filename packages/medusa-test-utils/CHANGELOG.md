@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13189](https://github.com/medusajs/medusa/pull/13189) [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(core-flows): Refresh adjustments when editing orders
+
+- Updated dependencies [[`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3), [`67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad`](https://github.com/medusajs/medusa/commit/67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad), [`34c3c14e0a1491ab80473605018b97981544167d`](https://github.com/medusajs/medusa/commit/34c3c14e0a1491ab80473605018b97981544167d), [`492e0189573ffad4977a3559d71f39bf94d8b45d`](https://github.com/medusajs/medusa/commit/492e0189573ffad4977a3559d71f39bf94d8b45d), [`6602e893b88f1c8f0c8165101dd609baaf60d925`](https://github.com/medusajs/medusa/commit/6602e893b88f1c8f0c8165101dd609baaf60d925)]:
+  - @medusajs/framework@2.10.0
+  - @medusajs/medusa@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes

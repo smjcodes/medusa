@@ -1,5 +1,33 @@
 # integration-tests-http
 
+## 1.0.22
+
+### Patch Changes
+
+- Updated dependencies [[`2f594291ad8d227b499b80a5bfe66f5963d42d6a`](https://github.com/medusajs/medusa/commit/2f594291ad8d227b499b80a5bfe66f5963d42d6a), [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3), [`3cc512ef39b6d64b1fe04c1bcdb2e23fa03526f6`](https://github.com/medusajs/medusa/commit/3cc512ef39b6d64b1fe04c1bcdb2e23fa03526f6), [`67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad`](https://github.com/medusajs/medusa/commit/67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad), [`cbfe646ce14d8436adbaa72cda95d38e6cdcd908`](https://github.com/medusajs/medusa/commit/cbfe646ce14d8436adbaa72cda95d38e6cdcd908), [`34c3c14e0a1491ab80473605018b97981544167d`](https://github.com/medusajs/medusa/commit/34c3c14e0a1491ab80473605018b97981544167d), [`eb376eb4cf9cc6fe0ce2a6724e0df81b27bc7b87`](https://github.com/medusajs/medusa/commit/eb376eb4cf9cc6fe0ce2a6724e0df81b27bc7b87), [`4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d`](https://github.com/medusajs/medusa/commit/4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d), [`492e0189573ffad4977a3559d71f39bf94d8b45d`](https://github.com/medusajs/medusa/commit/492e0189573ffad4977a3559d71f39bf94d8b45d), [`6602e893b88f1c8f0c8165101dd609baaf60d925`](https://github.com/medusajs/medusa/commit/6602e893b88f1c8f0c8165101dd609baaf60d925), [`fd4e79142880f1b2da63a38adef8c647da9c48e4`](https://github.com/medusajs/medusa/commit/fd4e79142880f1b2da63a38adef8c647da9c48e4)]:
+  - @medusajs/core-flows@2.10.0
+  - @medusajs/test-utils@2.10.0
+  - @medusajs/utils@2.10.0
+  - @medusajs/fulfillment@2.10.0
+  - @medusajs/medusa@2.10.0
+  - @medusajs/modules-sdk@2.10.0
+  - @medusajs/api-key@2.10.0
+  - @medusajs/auth@2.10.0
+  - @medusajs/customer@2.10.0
+  - @medusajs/inventory@2.10.0
+  - @medusajs/pricing@2.10.0
+  - @medusajs/product@2.10.0
+  - @medusajs/promotion@2.10.0
+  - @medusajs/region@2.10.0
+  - @medusajs/stock-location@2.10.0
+  - @medusajs/store@2.10.0
+  - @medusajs/tax@2.10.0
+  - @medusajs/user@2.10.0
+  - @medusajs/workflow-engine-inmemory@2.10.0
+  - @medusajs/cache-inmemory@2.10.0
+  - @medusajs/event-bus-local@2.10.0
+  - @medusajs/fulfillment-manual@2.10.0
+
 ## 1.0.21
 
 ### Patch Changes

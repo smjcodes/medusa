@@ -1,5 +1,35 @@
 # @medusajs/dashboard
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13267](https://github.com/medusajs/medusa/pull/13267) [`319a941d998b7a245507710568269261ee9c4950`](https://github.com/medusajs/medusa/commit/319a941d998b7a245507710568269261ee9c4950) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): zero in float currency inputs
+
+- [#13219](https://github.com/medusajs/medusa/pull/13219) [`e7b45f5fde288431a916f5cd55b70b40ca74f740`](https://github.com/medusajs/medusa/commit/e7b45f5fde288431a916f5cd55b70b40ca74f740) Thanks [@larsdecker](https://github.com/larsdecker)! - Improved the German Admin Translations
+
+- [#12572](https://github.com/medusajs/medusa/pull/12572) [`2f594291ad8d227b499b80a5bfe66f5963d42d6a`](https://github.com/medusajs/medusa/commit/2f594291ad8d227b499b80a5bfe66f5963d42d6a) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows, dashboard, types): improve allocation flows in Admin
+
+- [#13226](https://github.com/medusajs/medusa/pull/13226) [`67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad`](https://github.com/medusajs/medusa/commit/67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard, core-flows): associate shipping option to type
+
+- [#13260](https://github.com/medusajs/medusa/pull/13260) [`9b38b750def5c5cb7a83850c95435bffaae48b2a`](https://github.com/medusajs/medusa/commit/9b38b750def5c5cb7a83850c95435bffaae48b2a) Thanks [@fPolic](https://github.com/fPolic)! - feat(dashboard): shipping option tax rate overrides UI
+
+- [#13111](https://github.com/medusajs/medusa/pull/13111) [`c6b836bb03e0824ada0bce214d3ae0c99396a87d`](https://github.com/medusajs/medusa/commit/c6b836bb03e0824ada0bce214d3ae0c99396a87d) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): create product selected inventory item display
+
+- [#13208](https://github.com/medusajs/medusa/pull/13208) [`4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d`](https://github.com/medusajs/medusa/commit/4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard, js-sdk): shipping option type mngmt dashboard
+
+- [#13242](https://github.com/medusajs/medusa/pull/13242) [`492e0189573ffad4977a3559d71f39bf94d8b45d`](https://github.com/medusajs/medusa/commit/492e0189573ffad4977a3559d71f39bf94d8b45d) Thanks [@fPolic](https://github.com/fPolic)! - feat(dashboard,core-flows,js-sdk,types,medusa): listing order's shipping option
+
+- [#13053](https://github.com/medusajs/medusa/pull/13053) [`20b8187e2ac2886cc3e9e66a6b68ad12106219a3`](https://github.com/medusajs/medusa/commit/20b8187e2ac2886cc3e9e66a6b68ad12106219a3) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): include end of the range date in filter results
+
+- [#12624](https://github.com/medusajs/medusa/pull/12624) [`6d8e4acdc794878755fdc411ac9cb5c05fbac06b`](https://github.com/medusajs/medusa/commit/6d8e4acdc794878755fdc411ac9cb5c05fbac06b) Thanks [@fPolic](https://github.com/fPolic)! - chore(dashboard): migrate inventory location levels table
+
+- Updated dependencies [[`4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d`](https://github.com/medusajs/medusa/commit/4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d), [`492e0189573ffad4977a3559d71f39bf94d8b45d`](https://github.com/medusajs/medusa/commit/492e0189573ffad4977a3559d71f39bf94d8b45d), [`5b7a0412463ebab1dbc86c29024c1fd326ac47fc`](https://github.com/medusajs/medusa/commit/5b7a0412463ebab1dbc86c29024c1fd326ac47fc)]:
+  - @medusajs/admin-shared@2.10.0
+  - @medusajs/js-sdk@2.10.0
+  - @medusajs/ui@4.0.20
+  - @medusajs/icons@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes
